@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/ganu369/image/upload/v1651129538/Linkedin_cover_photo_1_odhe7k.png)]
+[![MasterHead](https://res.cloudinary.com/ganu369/image/upload/v1651129687/IIT-Kharagpur1_xwfwlx.png)]
 <h1 align="center">Hi 👋, I'm CSNR Ganesh</h1>
 <h3 align="center">Student at Indian Institute of Technology, Kharagpur</h3>
 <img align="right" src="![image](https://user-images.githubusercontent.com/100460284/165700326-4f572a24-1f15-4562-98e6-563648eaab58.png) />
