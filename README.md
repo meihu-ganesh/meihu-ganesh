@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meihu-ganesh&show_icons=true&locale=en" alt="meihu-ganesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meihu-ganesh&" alt="meihu-ganesh" /></p>
-![studing-bitmoji](https://user-images.githubusercontent.com/100460284/166267423-a4500e67-b8a7-4434-bfda-3bf0142d8299.png)
+<!-- ![studing-bitmoji](https://user-images.githubusercontent.com/100460284/166267423-a4500e67-b8a7-4434-bfda-3bf0142d8299.png) -->
