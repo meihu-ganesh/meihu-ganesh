@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/ganu369/image/upload/v1651129687/IIT-Kharagpur1_xwfwlx.png)]
 <h1 align="center">Hi 👋, I'm CSNR Ganesh</h1>
 <h3 align="center">Student at Indian Institute of Technology, Kharagpur</h3>
-<img align="right" src="![image](https://user-images.githubusercontent.com/100460284/165700326-4f572a24-1f15-4562-98e6-563648eaab58.png) />
+<!-- <img align="right" src=("https://user-images.githubusercontent.com/100460284/166267423-a4500e67-b8a7-4434-bfda-3bf0142d8299.png") alt="meihu-ganesh" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meihu-ganesh&label=Profile%20views&color=0e75b6&style=flat" alt="meihu-ganesh" /> </p>
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meihu-ganesh&show_icons=true&locale=en" alt="meihu-ganesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meihu-ganesh&" alt="meihu-ganesh" /></p>
+![studing-bitmoji](https://user-images.githubusercontent.com/100460284/166267423-a4500e67-b8a7-4434-bfda-3bf0142d8299.png)
