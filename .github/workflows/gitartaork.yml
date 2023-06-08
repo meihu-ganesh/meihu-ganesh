@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: meihu-ganesh
             # Text on contribution graph 
-            text: CSNR GANESH
+            text: CSNRG
        - uses: jasineri/simple-push-action@v1
