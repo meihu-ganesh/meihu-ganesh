@@ -1,7 +1,8 @@
 <!-- ![MasterHead](https://res.cloudinary.com/ganu369/image/upload/v1651129687/IIT-Kharagpur1_xwfwlx.png) -->
 
-## Artwork using my Contribution Graph 
+# Welcome to
 ![gitartwork](gitartwork.svg)
+#### this is the **Artwork** using my **Contribution Graph** 
 
 <h1 align="center">Hi , I'm CSNR Ganesh</h1>
 <h3 align="center">Student at Indian Institute of Technology, Kharagpur</h3>
